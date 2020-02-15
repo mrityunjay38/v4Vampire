@@ -2,10 +2,17 @@
 	"name": "v4Vampire Dark",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.background": "#17141d",
+		"editor.foreground": "#bb1c56",
+		"activityBar.background": "#17141d",
+		"activityBarBadge.background": "#5454c5",
+		"sideBarTitle.foreground": "#bbbcbd",
+		"statusBar.background": "#5454c5",
+		"statusBar.foreground": "#bbbbbb",
+		"editorGroupHeader.tabsBackground": "#221e2b",
+		"sideBar.background": "#221e2b",
+		"sideBar.foreground": "#bbbbbb",
+		"titleBar.activeBackground": "#17141d"
 	},
 	"tokenColors": [
 		{
