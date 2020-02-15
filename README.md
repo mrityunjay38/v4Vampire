@@ -4,6 +4,12 @@ This extension for Visual Studio Code adds themes titled "v4Vampire Dark". It is
 
 > I personally use this dark theme for most programming sessions.
 
+## Dark Theme
+
+![React](images/react.png)
+![CSS](images/css.png)
+![C++](images/c++.png)
+
 See the [CHANGELOG](CHANGELOG.md) for the latest changes.
 
 ## Usage
