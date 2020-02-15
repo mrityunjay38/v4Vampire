@@ -1,6 +1,6 @@
 # v4Vampire
 
-This extension for Visual Studio Code adds themes titled "v4Vampire Dark". It is dark a theme.
+This extension for Visual Studio Code adds themes titled "v4Vampire Dark". It is dark, a theme.
 
 > I personally use this dark theme for most programming sessions.
 
